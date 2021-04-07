@@ -11,6 +11,6 @@ public class WelcomeController {
 	@RequestMapping(method = RequestMethod.GET, value = "/")
 	@ResponseBody
 	public String welcomme() {
-		return "Hello Hulalalala";
+		return "Hello Anvesha";
 	}
 }
