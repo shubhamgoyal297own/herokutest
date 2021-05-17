@@ -12,6 +12,7 @@
 	<groupId>com.herokutest</groupId>
 	<artifactId>testapp297</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>testapp297</name>
 	<description>testapp297</description>
 	<properties>
