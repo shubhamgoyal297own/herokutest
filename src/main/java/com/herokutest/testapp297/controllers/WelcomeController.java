@@ -29,7 +29,7 @@ public class WelcomeController {
 	@RequestMapping(method = RequestMethod.GET, value = "/view")
 	public String meoww(Model model) {
 		model.addAttribute("hulala",
-				"");
+				"https://topsexymodels.net/wp-content/uploads/2020/03/sarah-hyland-s2792x4256-455281-1020.jpg");
 		return "welcome";
 	}
 
